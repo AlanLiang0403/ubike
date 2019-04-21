@@ -1,0 +1,3 @@
+# ubike車位即時查詢系統
+使用html搭配JQuery，以及新北市政府網站提供的opendata抓取資料做成json檔案，所製作的手機app。
+目的在讓使用者能隨時知道ubike可還車位數、可借車數、ubike站點地址等等功能。
